@@ -1,7 +1,17 @@
 ## Hi there 👋
 
+I'm a passionate Software Engineering undergraduate at **Mehran University of Engineering and Technology (MUET)**. I'm always eager to learn new technologies and improve both my technical and communication skills.
+
+- 🎓 Currently pursuing **B.E. in Software Engineering**
+- 🌱 I’m currently learning **Java**, **HTML/CSS**, and exploring front-end development
+- 👯 I’m looking to collaborate on beginner-friendly open-source projects
+- 🤝 I’m looking to connect with fellow students and industry professionals
+- 💬 Ask me about **C++**, **Java**, **HTML**, **CSS**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-saad-41767921b/) | [Email](mailto:saadrehan315@gmail.com)
+- ⚡ Fun fact: I believe consistent effort beats perfection
+
 <!--
-**MuhammadSaadAbbasi/MuhammadSaadAbbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YourUsername/YourUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
